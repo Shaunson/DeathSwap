@@ -1,0 +1,7 @@
+name: deathswap
+version: '1.0-Snapshot'
+main: com.shaunson.deathswap.Main
+api-version: '1.21'
+commands:
+  death-swap:
+    description: Death Swap game commands.
